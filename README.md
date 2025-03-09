@@ -8,3 +8,7 @@ Source LHDN API Documentation:
 
 Source Invoice Generator API Documentation: 
 #. https://invoice-generator.com/developers
+
+Reference:
+#. 
+https://github.com/samuelgursky/invoicing?tab=readme-ov-file
