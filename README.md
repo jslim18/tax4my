@@ -12,3 +12,4 @@ Source Invoice Generator API Documentation:
 Reference:
 #. 
 https://github.com/samuelgursky/invoicing?tab=readme-ov-file
+#. https://pdf.co/tutorials/create-pdf-invoice-from-google-sheet-using-pdfco-and-apps-script
